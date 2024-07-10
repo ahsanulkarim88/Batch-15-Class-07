@@ -1,0 +1,5 @@
+
+======Display Element=======
+
+1. Inline (Take Only Required Space)
+2. Block (Take 100% Space from Left to Right)
